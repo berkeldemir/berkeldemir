@@ -2,7 +2,7 @@
 
 | Project            | Description | Score   |
 | :----------------- | :---------- | :------ |
-| libft              | Create a library for further projects. | 125/125 |
+| <a href="https://github.com/berkeldemir/libft">libft</a> | Create a library for further projects. | 125/125 |
 | ft_printf          | Create your own printf | 110/125 |
 | get_next_line      | Create a function which gives the next line in a file everytime | 125/125 |
 | born2beroot        | Learning more about virtual machines | 125/125 |
