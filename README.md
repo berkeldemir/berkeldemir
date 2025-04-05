@@ -1,25 +1,13 @@
-## Hi there 👋
+# [42](https://42.fr) Projects
 
-| Project            | Description | Score   |
-| :----------------- | :---------- | :------ |
-| <a href="https://github.com/berkeldemir/libft">libft</a> | Create a library for further projects. | 125/125 |
-| <a href="https://github.com/berkeldemir/ft_printf">ft_printf</a> | Create your own printf | 110/125 |
-| <a href="https://github.com/berkeldemir/get_next_line">get_next_line</a> | Create a function which gives the next line in a file everytime | 125/125 |
-| born2beroot        | Learning more about virtual machines | 125/125 |
-| <a href="https://github.com/berkeldemir/minitalk">minitalk</a>| Create two applications and one can send a message to another | 115/125 |
-| <a href="https://github.com/berkeldemir/fract_ol">fract_ol</a>| Coming soon... | ???/125 |
-| <a href="https://github.com/berkeldemir/push_swap">push_swap</a>| Coming soon... | ???/125 |
-<!--
-**berkeldemir/berkeldemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                                                     | Score                                  | Description                                                     | Person |
+| :---------------------------------------------------------- | :-------------------------------------:| :-------------------------------------------------------------- | :-----:|
+| 💾[`libft`](https://github.com/berkeldemir/libft) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Create a library for further projects | 👤 |
+| 🖨️[`ft_printf`](https://github.com/berkeldemir/ft_printf) | ![110%](https://img.shields.io/badge/110%25-yellow) | Create your own printf | 👤 |
+| 📄[`get_next_line`](https://github.com/berkeldemir/get_next_line) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Create a function that returns the next line of a file each time | 👤 |
+| 🐧[`born2beroot`](https://github.com/berkeldemir) | ![110%](https://img.shields.io/badge/110%25-yellow) | Learning more about virtual machines | 👤 |
+| 💬[`minitalk`](https://github.com/berkeldemir/minitalk) | ![115%](https://img.shields.io/badge/115%25-green) | Create two applications where one can send a message to another | 👤 |
+| 🔭[`fract_ol`](https://github.com/berkeldemir/fract_ol) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Get stunningly beautiful, infinitely zoomable fractol images | 👤 |
+| 📊[`push_swap`](https://github.com/berkeldemir/push_swap) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Sorting algorithm with limited operations | 👤 |
+| 🍝[`philosphers`](https://github.com/berkeldemir/philosophers) | ![WIP](https://img.shields.io/badge/WIP-gray) | Understanding how threads work | 👤 |
+| 🐚[`minishell`](https://github.com/berkeldemir/minishell) | ![WIP](https://img.shields.io/badge/WIP-gray) | Create a custom shell <sub>w/[@tibetmdk](https://github.com/tibetmdk)</sub> | 👤👤 |
