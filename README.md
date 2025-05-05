@@ -1,3 +1,6 @@
+Hey there,
+it's Berk.
+
 # [42](https://42.fr) Projects
 
 | Project                                                     | Score                                  | Description                                                     | Person |
