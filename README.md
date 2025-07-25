@@ -13,4 +13,4 @@ it's Berk.
 | 🔭[`fract_ol`](https://github.com/berkeldemir/fract_ol) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Get stunningly beautiful, infinitely zoomable fractol images | 👤 |
 | 📊[`push_swap`](https://github.com/berkeldemir/push_swap) | ![125%](https://img.shields.io/badge/125%25-brightgreen) | Sorting algorithm with limited operations | 👤 |
 | 🍝[`philosphers`](https://github.com/berkeldemir/philosophers) | ![WIP](https://img.shields.io/badge/WIP-gray) | Understanding how threads work | 👤 |
-| 🐚[`minishell`](https://github.com/tibetmdk/minishell) | ![WIP](https://img.shields.io/badge/WIP-gray) | Create a custom shell <sub>w/[@tibetmdk](https://github.com/tibetmdk)</sub> | 👤👤 |
+| 🐚[`minishell`](https://github.com/berkeldemir/minishell) | ![WIP](https://img.shields.io/badge/WIP-gray) | Create a custom shell <sub>w/[@tibetmdk](https://github.com/tibetmdk)</sub> | 👤👤 |
